@@ -1,4 +1,4 @@
-# Default config for sway
+Fwofi# Default config for sway
 #
 # Copy this to ~/.config/sway/config and edit it to your liking.
 #
@@ -17,7 +17,7 @@ set $right l
 set $term foot
 # Your preferred application launcher
 #set $menu wmenu-run
-set $menu wofi --show run
+set $menu wofi --show drun --allow-images
 
 default_border pixel 2
 default_floating_border normal
