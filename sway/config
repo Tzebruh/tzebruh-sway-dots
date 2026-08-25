@@ -19,7 +19,7 @@ set $term foot
 #set $menu wmenu-run
 set $menu wofi --show drun --allow-images
 
-default_border pixel 2
+default_border pixel 5
 default_floating_border normal
 gaps inner 10
 for_window [app_id="pavucontrol"] floating enable
