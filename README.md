@@ -6,9 +6,6 @@ These are the config files I made for Sway when I installed Arch for the first t
 - `sway`
 - `wofi`
 - `foot`
-- Font Awesome
-    - Arch: `otf-font-awesome`
-    - Debian: `fonts-font-awesome`
 
 # no-waybar
 In this branch, Swaybar is used instead. (because this waybar setup is kinda broken)
